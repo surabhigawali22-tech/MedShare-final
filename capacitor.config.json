@@ -1,0 +1,9 @@
+{
+  "appId": "com.medshare.app",
+  "appName": "MedShare",
+  "webDir": "client/dist",
+  "server": {
+    "cleartext": true,
+    "androidScheme": "https"
+  }
+}
